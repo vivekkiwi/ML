@@ -1,0 +1,287 @@
+Parent,Channel,Coupon Type, Issuances ,  Redemptions , Redemption Rate,  Basket Net Sales  , Basket Margin  ,Margin per Issuance , Revenue per Issuance 
+Sears,Shopping Recap,Points,"12,284",26,0.21%," $46,663 "," $12,275 ",$1.00 ,$3.80 
+Sears,Shopping Recap,PMD,"11,697",235,2.01%," $4,03,369 "," $1,03,465 ",$8.85 ,$34.48 
+Sears,Shopping Recap,Liquidity,3,0,0.00%, $-   , $-   ,$0.00 ,$0.00 
+Sears,Sears Website,Points,"1,77,537",0,0.00%, $-   , $-   ,$0.00 ,$0.00 
+Sears,Sears Website,PMD,"1,83,256",1,0.00%, $108 , $15 ,$0.00 ,$0.00 
+Sears,Sears Shopin,Points,"44,124",86,0.19%," $8,938 "," $3,110 ",$0.07 ,$0.20 
+Sears,Sears Shopin,PMD,"2,83,992",381,0.13%," $36,335 "," $9,969 ",$0.04 ,$0.13 
+Sears,Sears Order Confirmation,Points,"1,41,514",84,0.06%," $21,368 "," $3,985 ",$0.03 ,$0.15 
+Sears,Sears Order Confirmation,PMD,"5,97,100",226,0.04%," $21,240 "," $7,253 ",$0.01 ,$0.04 
+Sears,Sears Order Confirmation,Liquidity,"19,583",239,1.22%," $72,651 "," $13,537 ",$0.69 ,$3.71 
+Sears,Sears Mobile,Points,"2,34,768",1004,0.43%," $1,17,239 "," $34,088 ",$0.15 ,$0.50 
+Sears,Sears Mobile,PMD,"2,61,783",1011,0.39%," $1,16,576 "," $38,564 ",$0.15 ,$0.45 
+Sears,Sears Mobile,Liquidity,1,0,0.00%, $-   , $-   ,$0.00 ,$0.00 
+Sears,Sears Deal Center,Points,1082090,3756,0.35%," $5,90,381 "," $1,51,679 ",$0.14 ,$0.55 
+Sears,Sears Deal Center,PMD,1182220,1659,0.14%," $2,54,475 "," $70,278 ",$0.06 ,$0.22 
+Other,Personal Shopper,Points,3989,22,0.55%," $1,211 ", $264 ,$0.07 ,$0.30 
+Other,Personal Shopper,PMD,15549,1,0.01%, $100 , $51 ,$0.00 ,$0.01 
+Sears,NPOS,Points,2046056,8511,0.42%," $14,00,380 "," $5,15,587 ",$0.25 ,$0.68 
+Sears,NPOS,PMD,7645389,39731,0.52%," $40,77,817 "," $15,25,483 ",$0.20 ,$0.53 
+Sears,NPOS,Liquidity,1047978,22835,2.18%," $19,65,517 "," $5,56,598 ",$0.53 ,$1.88 
+Kmart,KPOS,Points,7186946,101752,1.42%," $1,31,82,910 "," $45,81,899 ",$0.64 ,$1.83 
+Kmart,KPOS,PMD,11710296,50752,0.43%," $29,07,045 "," $10,38,387 ",$0.09 ,$0.25 
+Kmart,KPOS,Liquidity,371204,2873,0.77%," $1,31,484 "," $27,482 ",$0.07 ,$0.35 
+Kmart,Kmart Shopin,Points,10135,111,1.10%," $6,917 "," $1,894 ",$0.19 ,$0.68 
+Kmart,Kmart Shopin,PMD,21218,53,0.25%," $3,779 "," $1,281 ",$0.06 ,$0.18 
+Kmart,Kmart Order Confirmation,Points,51803,4,0.01%, $368 , $43 ,$0.00 ,$0.01 
+Kmart,Kmart Order Confirmation,PMD,319549,45,0.01%," $2,994 "," $1,065 ",$0.00 ,$0.01 
+Kmart,Kmart Order Confirmation,Liquidity,5936,0,0.00%, $-   , $-   ,$0.00 ,$0.00 
+Kmart,Kmart Mobile,Points,164816,0,0.00%," $1,20,587 "," $29,414 ",$0.18 ,$0.73 
+Kmart,Kmart Mobile,PMD,327651,0,0.00%," $1,04,071 "," $32,259 ",$0.10 ,$0.32 
+Kmart,Kmart Deal Center,Points,652327,0,0.00%," $1,30,231 "," $33,846 ",$0.05 ,$0.20 
+Kmart,Kmart Deal Center,PMD,1446439,0,0.00%," $90,299 "," $26,581 ",$0.02 ,$0.06 
+Other,Inbound Pre-shop,Liquidity,1742,0,0.00%," $3,504 ", $634 ,$0.36 ,$2.01 
+Sears,Shopping Recap,Points,3013,0,0.00%," $54,803 "," $13,665 ",$4.54 ,$18.19 
+Sears,Shopping Recap,PMD,3672,0,0.00%," $55,082 "," $13,938 ",$3.80 ,$15.00 
+Sears,Sears Website,Points,140487,0,0.00%, $610 , $69 ,$0.00 ,$0.00 
+Sears,Sears Website,PMD,147936,0,0.00%, $501 , $57 ,$0.00 ,$0.00 
+Sears,Sears Shopin,Points,43832,0,0.00%," $28,659 "," $7,221 ",$0.16 ,$0.65 
+Sears,Sears Shopin,PMD,29727,0,0.00%," $9,423 "," $2,801 ",$0.09 ,$0.32 
+Sears,Sears Order Confirmation,Points,141519,0,0.00%," $19,730 "," $3,556 ",$0.03 ,$0.14 
+Sears,Sears Order Confirmation,PMD,724326,0,0.00%," $38,035 "," $12,267 ",$0.02 ,$0.05 
+Sears,Sears Order Confirmation,Liquidity,17270,0,0.00%," $98,848 "," $11,827 ",$0.68 ,$5.72 
+Sears,Sears Mobile,Points,209069,0,0.00%," $1,61,739 "," $45,417 ",$0.22 ,$0.77 
+Sears,Sears Mobile,PMD,290229,0,0.00%," $3,41,258 "," $1,18,795 ",$0.41 ,$1.18 
+Sears,Sears Mobile,Liquidity,1,0,0.00%, $-   , $-   ,$0.00 ,$0.00 
+Sears,Sears Deal Center,Points,828396,0,0.00%," $6,99,594 "," $1,68,703 ",$0.20 ,$0.84 
+Sears,Sears Deal Center,PMD,936966,0,0.00%," $3,30,920 "," $94,436 ",$0.10 ,$0.35 
+Other,Personal Shopper,Points,23089,0,0.00%," $1,310 ", $311 ,$0.01 ,$0.06 
+Other,Personal Shopper,PMD,89465,0,0.00%, $-   , $-   ,$0.00 ,$0.00 
+Sears,NPOS,Points,2284279,0,0.00%," $16,65,790 "," $5,83,583 ",$0.26 ,$0.73 
+Sears,NPOS,PMD,8716928,0,0.00%," $52,04,022 "," $18,96,185 ",$0.22 ,$0.60 
+Sears,NPOS,Liquidity,1178527,0,0.00%," $25,65,493 "," $6,57,627 ",$0.56 ,$2.18 
+Kmart,KPOS,Points,6324449,0,0.00%," $1,08,11,455 "," $35,66,355 ",$0.56 ,$1.71 
+Kmart,KPOS,PMD,11449505,0,0.00%," $26,24,666 "," $9,19,271 ",$0.08 ,$0.23 
+Kmart,KPOS,Liquidity,640865,0,0.00%," $2,04,742 "," $41,316 ",$0.06 ,$0.32 
+Kmart,Kmart Shopin,Points,8415,0,0.00%," $6,006 "," $1,528 ",$0.18 ,$0.71 
+Kmart,Kmart Shopin,PMD,17367,0,0.00%," $3,021 ", $860 ,$0.05 ,$0.17 
+Kmart,Kmart Order Confirmation,Points,61691,0,0.00%, $485 , $149 ,$0.00 ,$0.01 
+Kmart,Kmart Order Confirmation,PMD,366758,0,0.00%," $3,276 "," $1,052 ",$0.00 ,$0.01 
+Kmart,Kmart Order Confirmation,Liquidity,14954,0,0.00%, $-   , $-   ,$0.00 ,$0.00 
+Kmart,Kmart Mobile,Points,139092,0,0.00%," $1,39,101 "," $34,349 ",$0.25 ,$1.00 
+Kmart,Kmart Mobile,PMD,270597,0,0.00%," $1,87,290 "," $64,172 ",$0.24 ,$0.69 
+Kmart,Kmart Deal Center,Points,424990,0,0.00%," $1,11,667 "," $26,695 ",$0.06 ,$0.26 
+Kmart,Kmart Deal Center,PMD,970544,0,0.00%," $78,297 "," $20,087 ",$0.02 ,$0.08 
+Other,Inbound Pre-shop,Liquidity,1813,0,0.00%," $3,369 ", $606 ,$0.33 ,$1.86 
+Sears,Shopping Recap,PMD,4010,0,0.00%," $27,992 "," $7,988 ",$1.99 ,$6.98 
+Sears,Sears Website,Points,184887,0,0.00%," $2,534 ", $380 ,$0.00 ,$0.01 
+Sears,Sears Website,PMD,174972,0,0.00%," $1,288 ", $223 ,$0.00 ,$0.01 
+Sears,Sears Shopin,Points,40051,0,0.00%," $16,971 "," $5,731 ",$0.14 ,$0.42 
+Sears,Sears Shopin,PMD,26402,0,0.00%," $6,066 "," $2,162 ",$0.08 ,$0.23 
+Sears,Sears Order Confirmation,Points,140068,0,0.00%," $12,818 "," $2,707 ",$0.02 ,$0.09 
+Sears,Sears Order Confirmation,PMD,585394,0,0.00%," $31,601 "," $11,097 ",$0.02 ,$0.05 
+Sears,Sears Order Confirmation,Liquidity,21358,0,0.00%," $35,334 "," $5,858 ",$0.27 ,$1.65 
+Sears,Sears Mobile,Points,208807,0,0.00%," $1,27,959 "," $30,423 ",$0.15 ,$0.61 
+Sears,Sears Mobile,PMD,247421,0,0.00%," $1,73,552 "," $58,564 ",$0.24 ,$0.70 
+Sears,Sears Mobile,Liquidity,8,0,0.00%, $-   , $-   ,$0.00 ,$0.00 
+Sears,Sears Deal Center,Points,987897,0,0.00%," $6,24,553 "," $1,26,663 ",$0.13 ,$0.63 
+Sears,Sears Deal Center,PMD,1032128,0,0.00%," $1,72,756 "," $43,455 ",$0.04 ,$0.17 
+Other,Personal Shopper,Points,20571,0,0.00%," $3,113 ", $675 ,$0.03 ,$0.15 
+Other,Personal Shopper,PMD,80466,0,0.00%, $-   , $-   ,$0.00 ,$0.00 
+Sears,NPOS,Points,2172774,0,0.00%," $11,16,824 "," $4,22,597 ",$0.19 ,$0.51 
+Sears,NPOS,PMD,8087087,0,0.00%," $46,48,831 "," $17,44,994 ",$0.22 ,$0.57 
+Sears,NPOS,Liquidity,1109687,0,0.00%," $21,47,042 "," $6,24,641 ",$0.56 ,$1.93 
+Kmart,KPOS,Points,5998601,0,0.00%," $72,48,207 "," $26,27,209 ",$0.44 ,$1.21 
+Kmart,KPOS,PMD,11974377,0,0.00%," $31,17,756 "," $12,05,423 ",$0.10 ,$0.26 
+Kmart,KPOS,Liquidity,722640,0,0.00%," $2,87,416 "," $66,991 ",$0.09 ,$0.40 
+Kmart,Kmart Shopin,Points,8175,0,0.00%," $6,012 "," $1,471 ",$0.18 ,$0.74 
+Kmart,Kmart Shopin,PMD,16523,0,0.00%," $5,508 "," $1,995 ",$0.12 ,$0.33 
+Kmart,Kmart Order Confirmation,Points,74558,0,0.00%," $1,558 ", $541 ,$0.01 ,$0.02 
+Kmart,Kmart Order Confirmation,PMD,349862,0,0.00%," $3,806 "," $1,294 ",$0.00 ,$0.01 
+Kmart,Kmart Order Confirmation,Liquidity,21721,0,0.00%, $-   , $-   ,$0.00 ,$0.00 
+Kmart,Kmart Mobile,Points,146647,0,0.00%," $1,45,152 "," $37,588 ",$0.26 ,$0.99 
+Kmart,Kmart Mobile,PMD,244593,0,0.00%," $1,08,476 "," $34,192 ",$0.14 ,$0.44 
+Kmart,Kmart Deal Center,Points,577736,0,0.00%," $1,26,241 "," $39,400 ",$0.07 ,$0.22 
+Kmart,Kmart Deal Center,PMD,1138103,0,0.00%," $1,02,545 "," $28,970 ",$0.03 ,$0.09 
+Other,Inbound Pre-shop,Liquidity,68,0,0.00%, $400 , $52 ,$0.77 ,$5.89 
+Sears,Shopping Recap,PMD,3979,0,0.00%," $52,483 "," $14,080 ",$3.54 ,$13.19 
+Sears,Sears Website,Points,153771,0,0.00%," $2,132 ", $201 ,$0.00 ,$0.01 
+Sears,Sears Website,PMD,136937,0,0.00%," $3,071 ", $567 ,$0.00 ,$0.02 
+Sears,Sears Shopin,Points,37091,0,0.00%," $33,122 "," $9,417 ",$0.25 ,$0.89 
+Sears,Sears Shopin,PMD,27485,0,0.00%," $13,500 "," $2,821 ",$0.10 ,$0.49 
+Sears,Sears Order Confirmation,Points,200298,0,0.00%," $28,279 "," $4,813 ",$0.02 ,$0.14 
+Sears,Sears Order Confirmation,PMD,632135,0,0.00%," $50,581 "," $14,182 ",$0.02 ,$0.08 
+Sears,Sears Order Confirmation,Liquidity,47299,0,0.00%," $59,012 "," $6,970 ",$0.15 ,$1.25 
+Sears,Sears Mobile,Points,247964,0,0.00%," $3,46,067 "," $59,719 ",$0.24 ,$1.40 
+Sears,Sears Mobile,PMD,252756,0,0.00%," $2,08,335 "," $40,247 ",$0.16 ,$0.82 
+Sears,Sears Deal Center,Points,1014012,0,0.00%," $12,98,635 "," $1,99,162 ",$0.20 ,$1.28 
+Sears,Sears Deal Center,PMD,1076709,0,0.00%," $1,23,935 "," $31,860 ",$0.03 ,$0.12 
+Other,Personal Shopper,Points,23863,0,0.00%," $12,129 "," $1,995 ",$0.08 ,$0.51 
+Other,Personal Shopper,PMD,90577,0,0.00%, $75 , $28 ,$0.00 ,$0.00 
+Sears,NPOS,Points,3402464,0,0.00%," $26,11,775 "," $6,85,793 ",$0.20 ,$0.77 
+Sears,NPOS,PMD,12432669,0,0.00%," $73,50,537 "," $20,85,701 ",$0.17 ,$0.59 
+Sears,NPOS,Liquidity,2808912,0,0.00%," $25,17,260 "," $6,02,740 ",$0.21 ,$0.90 
+Kmart,KPOS,Points,5863093,0,0.00%," $91,59,026 "," $23,87,154 ",$0.41 ,$1.56 
+Kmart,KPOS,PMD,18552170,0,0.00%," $58,21,537 "," $15,53,137 ",$0.08 ,$0.31 
+Kmart,KPOS,Liquidity,1519952,0,0.00%," $5,89,381 "," $1,07,947 ",$0.07 ,$0.39 
+Kmart,Kmart Shopin,Points,9426,0,0.00%," $9,220 "," $1,998 ",$0.21 ,$0.98 
+Kmart,Kmart Shopin,PMD,22642,0,0.00%," $9,167 "," $1,694 ",$0.07 ,$0.40 
+Kmart,Kmart Order Confirmation,Points,71187,0,0.00%," $3,742 ", $768 ,$0.01 ,$0.05 
+Kmart,Kmart Order Confirmation,PMD,414973,0,0.00%," $5,667 "," $1,425 ",$0.00 ,$0.01 
+Kmart,Kmart Order Confirmation,Liquidity,54226,0,0.00%, $158 , $59 ,$0.00 ,$0.00 
+Kmart,Kmart Mobile,Points,162439,0,0.00%," $2,78,129 "," $58,172 ",$0.36 ,$1.71 
+Kmart,Kmart Mobile,PMD,257295,0,0.00%," $1,38,262 "," $26,076 ",$0.10 ,$0.54 
+Kmart,Kmart Deal Center,Points,584389,0,0.00%," $2,75,977 "," $58,464 ",$0.10 ,$0.47 
+Kmart,Kmart Deal Center,PMD,1107116,0,0.00%," $1,83,366 "," $41,288 ",$0.04 ,$0.17 
+Other,Inbound Pre-shop,Liquidity,28,0,0.00%, $217 , $(57),($2.05),$7.76 
+Sears,Shopping Recap,Points,11283,0,0.00%," $26,532 "," $5,848 ",$0.52 ,$2.35 
+Sears,Shopping Recap,PMD,15181,0,0.00%," $1,86,699 "," $42,665 ",$2.81 ,$12.30 
+Sears,Sears Website,Points,148969,0,0.00%, $679 , $13 ,$0.00 ,$0.00 
+Sears,Sears Website,PMD,167540,0,0.00%," $2,326 ", $489 ,$0.00 ,$0.01 
+Sears,Sears Shopin,Points,31382,0,0.00%," $16,010 "," $5,561 ",$0.18 ,$0.51 
+Sears,Sears Shopin,PMD,33741,0,0.00%," $6,398 "," $2,321 ",$0.07 ,$0.19 
+Sears,Sears Order Confirmation,Points,179800,0,0.00%," $22,937 "," $6,114 ",$0.03 ,$0.13 
+Sears,Sears Order Confirmation,PMD,610304,0,0.00%," $36,408 "," $12,411 ",$0.02 ,$0.06 
+Sears,Sears Order Confirmation,Liquidity,53924,0,0.00%," $56,238 "," $10,136 ",$0.19 ,$1.04 
+Sears,Sears Mobile,Points,280036,0,0.00%," $2,17,125 "," $54,606 ",$0.19 ,$0.78 
+Sears,Sears Mobile,PMD,320914,0,0.00%," $1,36,150 "," $32,731 ",$0.10 ,$0.42 
+Sears,Sears Mobile,Liquidity,88,0,0.00%, $-   , $-   ,$0.00 ,$0.00 
+Sears,Sears Deal Center,Points,1264015,0,0.00%," $8,18,627 "," $1,86,456 ",$0.15 ,$0.65 
+Sears,Sears Deal Center,PMD,1464994,0,0.00%," $2,08,153 "," $58,344 ",$0.04 ,$0.14 
+Other,Personal Shopper,Points,22321,0,0.00%," $2,474 ", $918 ,$0.04 ,$0.11 
+Other,Personal Shopper,PMD,79581,0,0.00%, $-   , $-   ,$0.00 ,$0.00 
+Sears,NPOS,Points,2543346,0,0.00%," $15,86,221 "," $5,50,302 ",$0.22 ,$0.62 
+Sears,NPOS,PMD,10189341,0,0.00%," $49,86,573 "," $17,68,119 ",$0.17 ,$0.49 
+Sears,NPOS,Liquidity,1799359,0,0.00%," $44,14,779 "," $12,61,564 ",$0.70 ,$2.45 
+Kmart,KPOS,Points,6433190,0,0.00%," $66,31,443 "," $23,54,092 ",$0.37 ,$1.03 
+Kmart,KPOS,PMD,17140022,0,0.00%," $85,61,372 "," $23,91,263 ",$0.14 ,$0.50 
+Kmart,KPOS,Liquidity,1043984,0,0.00%," $12,17,057 "," $3,30,971 ",$0.32 ,$1.17 
+Kmart,Kmart Shopin,Points,10199,0,0.00%," $11,432 "," $3,489 ",$0.34 ,$1.12 
+Kmart,Kmart Shopin,PMD,24385,0,0.00%," $5,536 "," $1,641 ",$0.07 ,$0.23 
+Kmart,Kmart Order Confirmation,Points,84875,0,0.00%," $3,496 ", $932 ,$0.01 ,$0.04 
+Kmart,Kmart Order Confirmation,PMD,383645,0,0.00%," $14,438 "," $3,504 ",$0.01 ,$0.04 
+Kmart,Kmart Order Confirmation,Liquidity,31421,0,0.00%, $18 , $(8),($0.00),$0.00 
+Kmart,Kmart Mobile,Points,182031,0,0.00%," $2,08,324 "," $39,783 ",$0.22 ,$1.14 
+Kmart,Kmart Mobile,PMD,286834,0,0.00%," $95,845 "," $22,433 ",$0.08 ,$0.33 
+Kmart,Kmart Deal Center,Points,775795,0,0.00%," $2,00,742 "," $54,891 ",$0.07 ,$0.26 
+Kmart,Kmart Deal Center,PMD,1412319,0,0.00%," $1,02,967 "," $25,226 ",$0.02 ,$0.07 
+Other,Inbound Pre-shop,Liquidity,32,0,0.00%, $-   , $-   ,$0.00 ,$0.00 
+Sears,Shopping Recap,Points,19129,0,0.00%," $27,144 "," $7,569 ",$0.40 ,$1.42 
+Sears,Shopping Recap,PMD,24552,0,0.00%," $3,12,335 "," $94,768 ",$3.86 ,$12.72 
+Sears,Sears Website,Points,94698,0,0.00%," $1,432 ", $97 ,$0.00 ,$0.02 
+Sears,Sears Website,PMD,113127,0,0.00%," $4,084 "," $1,377 ",$0.01 ,$0.04 
+Sears,Sears Shopin,Points,28648,0,0.00%," $17,038 "," $5,443 ",$0.19 ,$0.59 
+Sears,Sears Shopin,PMD,39942,0,0.00%," $8,799 "," $(2,295)",($0.06),$0.22 
+Sears,Sears Order Confirmation,Points,149529,0,0.00%," $15,317 "," $3,289 ",$0.02 ,$0.10 
+Sears,Sears Order Confirmation,PMD,583748,0,0.00%," $42,217 "," $13,183 ",$0.02 ,$0.07 
+Sears,Sears Order Confirmation,Liquidity,38147,0,0.00%," $1,40,097 "," $17,964 ",$0.47 ,$3.67 
+Sears,Sears Mobile,Points,223540,0,0.00%," $1,67,447 "," $47,342 ",$0.21 ,$0.75 
+Sears,Sears Mobile,PMD,282723,0,0.00%," $1,70,622 "," $46,962 ",$0.17 ,$0.60 
+Sears,Sears Deal Center,Points,1001819,0,0.00%," $5,24,479 "," $1,41,487 ",$0.14 ,$0.52 
+Sears,Sears Deal Center,PMD,1190723,0,0.00%," $1,94,195 "," $52,533 ",$0.04 ,$0.16 
+Other,Personal Shopper,Points,27081,0,0.00%," $4,126 ", $800 ,$0.03 ,$0.15 
+Other,Personal Shopper,PMD,89157,0,0.00%, $240 , $71 ,$0.00 ,$0.00 
+Sears,NPOS,Points,3433516,0,0.00%," $18,30,262 "," $6,44,784 ",$0.19 ,$0.53 
+Sears,NPOS,PMD,12032717,0,0.00%," $61,95,934 "," $21,18,986 ",$0.18 ,$0.51 
+Sears,NPOS,Liquidity,1779403,0,0.00%," $69,22,463 "," $19,31,437 ",$1.09 ,$3.89 
+Kmart,KPOS,Points,7810838,0,0.00%," $1,01,58,024 "," $33,37,265 ",$0.43 ,$1.30 
+Kmart,KPOS,PMD,17406823,0,0.00%," $1,02,34,423 "," $29,08,859 ",$0.17 ,$0.59 
+Kmart,KPOS,Liquidity,983004,0,0.00%," $18,54,086 "," $4,80,410 ",$0.49 ,$1.89 
+Kmart,Kmart Shopin,Points,8966,0,0.00%," $12,514 "," $2,356 ",$0.26 ,$1.40 
+Kmart,Kmart Shopin,PMD,25753,0,0.00%," $6,985 "," $2,004 ",$0.08 ,$0.27 
+Kmart,Kmart Order Confirmation,Points,100212,0,0.00%," $2,221 ", $298 ,$0.00 ,$0.02 
+Kmart,Kmart Order Confirmation,PMD,376504,0,0.00%," $12,897 "," $3,006 ",$0.01 ,$0.03 
+Kmart,Kmart Order Confirmation,Liquidity,22992,0,0.00%, $72 , $20 ,$0.00 ,$0.00 
+Kmart,Kmart Mobile,Points,141042,0,0.00%," $2,29,167 "," $61,292 ",$0.43 ,$1.62 
+Kmart,Kmart Mobile,PMD,235832,0,0.00%," $1,12,602 "," $27,980 ",$0.12 ,$0.48 
+Kmart,Kmart Deal Center,Points,609775,0,0.00%," $2,10,092 "," $58,310 ",$0.10 ,$0.34 
+Kmart,Kmart Deal Center,PMD,1148818,0,0.00%," $1,42,790 "," $42,329 ",$0.04 ,$0.12 
+Other,Inbound Pre-shop,Liquidity,24,0,0.00%, $27 , $(35),($1.48),$1.13 
+Sears,Shopping Recap,Points,15306,0,0.00%," $21,007 "," $6,271 ",$0.41 ,$1.37 
+Sears,Shopping Recap,PMD,18433,0,0.00%," $2,23,410 "," $69,051 ",$3.75 ,$12.12 
+Sears,Shopping Recap,Liquidity,6,0,0.00%, $-   , $-   ,$0.00 ,$0.00 
+Sears,Sears Website,Points,102794,0,0.00%," $1,100 ", $244 ,$0.00 ,$0.01 
+Sears,Sears Website,PMD,120022,0,0.00%," $1,683 ", $453 ,$0.00 ,$0.01 
+Sears,Sears Shopin,Points,39082,0,0.00%," $33,122 "," $10,500 ",$0.27 ,$0.85 
+Sears,Sears Shopin,PMD,30474,0,0.00%," $11,563 "," $3,352 ",$0.11 ,$0.38 
+Sears,Sears Order Confirmation,Points,163202,0,0.00%," $15,744 "," $3,999 ",$0.02 ,$0.10 
+Sears,Sears Order Confirmation,PMD,647560,0,0.00%," $66,519 "," $20,688 ",$0.03 ,$0.10 
+Sears,Sears Order Confirmation,Liquidity,41229,0,0.00%," $1,10,836 "," $18,088 ",$0.44 ,$2.69 
+Sears,Sears Mobile,Points,241825,0,0.00%," $2,58,817 "," $67,861 ",$0.28 ,$1.07 
+Sears,Sears Mobile,PMD,324894,0,0.00%," $2,86,070 "," $85,798 ",$0.26 ,$0.88 
+Sears,Sears Mobile,Liquidity,3311,0,0.00%," $1,280 ", $242 ,$0.07 ,$0.39 
+Sears,Sears Deal Center,Points,972445,0,0.00%," $8,66,951 "," $2,25,031 ",$0.23 ,$0.89 
+Sears,Sears Deal Center,PMD,1268294,0,0.00%," $3,63,432 "," $98,396 ",$0.08 ,$0.29 
+Other,Personal Shopper,Points,20239,0,0.00%," $5,559 "," $1,502 ",$0.07 ,$0.27 
+Other,Personal Shopper,PMD,70703,0,0.00%, $-   , $-   ,$0.00 ,$0.00 
+Sears,NPOS,Points,4737827,0,0.00%," $25,82,275 "," $9,16,878 ",$0.19 ,$0.55 
+Sears,NPOS,PMD,16075581,0,0.00%," $88,90,509 "," $29,59,388 ",$0.18 ,$0.55 
+Sears,NPOS,Liquidity,2349759,0,0.00%," $1,02,02,094 "," $28,68,414 ",$1.22 ,$4.34 
+Kmart,KPOS,Points,9252974,0,0.00%," $1,32,39,857 "," $44,27,626 ",$0.48 ,$1.43 
+Kmart,KPOS,PMD,21427549,0,0.00%," $1,21,75,804 "," $36,31,937 ",$0.17 ,$0.57 
+Kmart,KPOS,Liquidity,1165288,0,0.00%," $26,72,500 "," $7,34,473 ",$0.63 ,$2.29 
+Kmart,Kmart Shopin,Points,12732,0,0.00%," $16,384 "," $3,988 ",$0.31 ,$1.29 
+Kmart,Kmart Shopin,PMD,22735,0,0.00%," $7,258 "," $2,038 ",$0.09 ,$0.32 
+Kmart,Kmart Order Confirmation,Points,84048,0,0.00%," $1,830 ", $685 ,$0.01 ,$0.02 
+Kmart,Kmart Order Confirmation,PMD,344451,0,0.00%," $10,904 "," $3,037 ",$0.01 ,$0.03 
+Kmart,Kmart Order Confirmation,Liquidity,18737,0,0.00%, $459 , $135 ,$0.01 ,$0.02 
+Kmart,Kmart Mobile,Points,146016,0,0.00%," $2,80,533 "," $84,149 ",$0.58 ,$1.92 
+Kmart,Kmart Mobile,PMD,232512,0,0.00%," $1,67,596 "," $45,929 ",$0.20 ,$0.72 
+Kmart,Kmart Deal Center,Points,559324,0,0.00%," $2,63,930 "," $81,723 ",$0.15 ,$0.47 
+Kmart,Kmart Deal Center,PMD,967812,0,0.00%," $1,72,482 "," $52,313 ",$0.05 ,$0.18 
+Other,Inbound Pre-shop,Liquidity,23,0,0.00%, $59 , $11 ,$0.50 ,$2.55 
+Sears,Shopping Recap,Points,5047,0,0.00%," $29,954 "," $9,764 ",$1.93 ,$5.94 
+Sears,Shopping Recap,PMD,8044,0,0.00%," $1,44,186 "," $44,457 ",$5.53 ,$17.92 
+Sears,Shopping Recap,Liquidity,3,0,0.00%, $-   , $-   ,$0.00 ,$0.00 
+Sears,Sears Website,Points,72677,0,0.00%, $944 , $435 ,$0.01 ,$0.01 
+Sears,Sears Website,PMD,91620,0,0.00%," $1,378 ", $295 ,$0.00 ,$0.02 
+Sears,Sears Shopin,Points,28785,0,0.00%," $27,356 "," $7,908 ",$0.27 ,$0.95 
+Sears,Sears Shopin,PMD,31766,0,0.00%," $11,866 "," $3,381 ",$0.11 ,$0.37 
+Sears,Sears Order Confirmation,Points,81305,0,0.00%," $16,634 "," $5,847 ",$0.07 ,$0.20 
+Sears,Sears Order Confirmation,PMD,430351,0,0.00%," $39,991 "," $12,368 ",$0.03 ,$0.09 
+Sears,Sears Order Confirmation,Liquidity,27083,0,0.00%," $88,111 "," $17,894 ",$0.66 ,$3.25 
+Sears,Sears Mobile,Points,194998,0,0.00%," $2,10,384 "," $56,415 ",$0.29 ,$1.08 
+Sears,Sears Mobile,PMD,267612,0,0.00%," $2,98,516 "," $72,579 ",$0.27 ,$1.12 
+Sears,Sears Mobile,Liquidity,17918,0,0.00%," $6,922 ", $788 ,$0.04 ,$0.39 
+Sears,Sears Deal Center,Points,661647,0,0.00%," $5,08,164 "," $1,26,826 ",$0.19 ,$0.77 
+Sears,Sears Deal Center,PMD,855363,0,0.00%," $2,06,518 "," $60,027 ",$0.07 ,$0.24 
+Other,Personal Shopper,Points,25834,0,0.00%," $4,220 ", $979 ,$0.04 ,$0.16 
+Other,Personal Shopper,PMD,89119,0,0.00%, $-   , $-   ,$0.00 ,$0.00 
+Sears,NPOS,Points,3722434,0,0.00%," $19,78,139 "," $6,96,437 ",$0.19 ,$0.53 
+Sears,NPOS,PMD,15777017,0,0.00%," $77,15,674 "," $25,19,112 ",$0.16 ,$0.49 
+Sears,NPOS,Liquidity,2012164,0,0.00%," $81,79,150 "," $22,89,586 ",$1.14 ,$4.06 
+Kmart,KPOS,Points,8471810,0,0.00%," $1,18,13,298 "," $38,58,597 ",$0.46 ,$1.39 
+Kmart,KPOS,PMD,20777805,0,0.00%," $1,01,37,393 "," $30,80,828 ",$0.15 ,$0.49 
+Kmart,KPOS,Liquidity,835311,0,0.00%," $27,99,830 "," $8,07,954 ",$0.97 ,$3.35 
+Kmart,Kmart Shopin,Points,12851,0,0.00%," $14,036 "," $3,754 ",$0.29 ,$1.09 
+Kmart,Kmart Shopin,PMD,21198,0,0.00%," $6,846 "," $2,216 ",$0.10 ,$0.32 
+Kmart,Kmart Order Confirmation,Points,42826,0,0.00%, $493 , $129 ,$0.00 ,$0.01 
+Kmart,Kmart Order Confirmation,PMD,183779,0,0.00%," $4,001 ", $894 ,$0.00 ,$0.02 
+Kmart,Kmart Order Confirmation,Liquidity,6235,0,0.00%, $-   , $-   ,$0.00 ,$0.00 
+Kmart,Kmart Mobile,Points,123757,0,0.00%," $2,97,061 "," $87,020 ",$0.70 ,$2.40 
+Kmart,Kmart Mobile,PMD,201029,0,0.00%," $1,89,072 "," $47,798 ",$0.24 ,$0.94 
+Kmart,Kmart Deal Center,Points,387131,0,0.00%," $2,31,390 "," $68,278 ",$0.18 ,$0.60 
+Kmart,Kmart Deal Center,PMD,639709,0,0.00%," $1,46,016 "," $43,240 ",$0.07 ,$0.23 
+Other,Inbound Pre-shop,Liquidity,11,0,0.00%, $66 , $18 ,$1.66 ,$5.99 
+Sears,Shopping Recap,Points,0,0,NA," $11,849 "," $3,664 ",NA,NA
+Sears,Shopping Recap,PMD,3678,0,0.00%," $84,091 "," $23,335 ",$6.34 ,$22.86 
+Sears,Sears Website,Points,73690,0,0.00%, $387 , $83 ,$0.00 ,$0.01 
+Sears,Sears Website,PMD,83538,0,0.00%," $1,111 ", $387 ,$0.00 ,$0.01 
+Sears,Sears Shopin,Points,31055,0,0.00%," $9,782 "," $2,192 ",$0.07 ,$0.31 
+Sears,Sears Shopin,PMD,20812,0,0.00%," $4,674 ", $935 ,$0.04 ,$0.22 
+Sears,Sears Order Confirmation,Points,61660,0,0.00%," $2,334 ", $383 ,$0.01 ,$0.04 
+Sears,Sears Order Confirmation,PMD,373757,0,0.00%," $23,231 "," $8,705 ",$0.02 ,$0.06 
+Sears,Sears Order Confirmation,Liquidity,26859,0,0.00%," $47,926 "," $8,157 ",$0.30 ,$1.78 
+Sears,Sears Mobile,Points,170470,0,0.00%," $1,15,646 "," $27,061 ",$0.16 ,$0.68 
+Sears,Sears Mobile,PMD,218792,0,0.00%," $1,37,041 "," $34,752 ",$0.16 ,$0.63 
+Sears,Sears Mobile,Liquidity,7474,0,0.00%," $3,970 ", $151 ,$0.02 ,$0.53 
+Sears,Sears Deal Center,Points,702152,0,0.00%," $4,37,963 "," $1,12,739 ",$0.16 ,$0.62 
+Sears,Sears Deal Center,PMD,839945,0,0.00%," $1,88,638 "," $59,450 ",$0.07 ,$0.22 
+Other,Personal Shopper,Points,12242,0,0.00%," $2,588 ", $442 ,$0.04 ,$0.21 
+Other,Personal Shopper,PMD,39571,0,0.00%, $-   , $-   ,$0.00 ,$0.00 
+Sears,NPOS,Points,2188117,0,0.00%," $10,68,451 "," $3,59,426 ",$0.16 ,$0.49 
+Sears,NPOS,PMD,9907895,0,0.00%," $50,51,666 "," $16,61,721 ",$0.17 ,$0.51 
+Sears,NPOS,Liquidity,1308686,0,0.00%," $27,18,048 "," $7,17,293 ",$0.55 ,$2.08 
+Kmart,KPOS,Points,5502725,0,0.00%," $41,76,175 "," $11,14,377 ",$0.20 ,$0.76 
+Kmart,KPOS,PMD,12985278,0,0.00%," $28,89,672 "," $8,36,997 ",$0.06 ,$0.22 
+Kmart,KPOS,Liquidity,197566,0,0.00%," $48,417 "," $12,701 ",$0.06 ,$0.25 
+Kmart,Kmart Shopin,Points,12078,0,0.00%," $3,612 ", $456 ,$0.04 ,$0.30 
+Kmart,Kmart Shopin,PMD,17063,0,0.00%," $3,223 ", $946 ,$0.06 ,$0.19 
+Kmart,Kmart Order Confirmation,Points,39989,0,0.00%, $-   , $-   ,$0.00 ,$0.00 
+Kmart,Kmart Order Confirmation,PMD,154991,0,0.00%, $776 , $166 ,$0.00 ,$0.01 
+Kmart,Kmart Order Confirmation,Liquidity,2752,0,0.00%, $-   , $-   ,$0.00 ,$0.00 
+Kmart,Kmart Mobile,Points,116624,0,0.00%," $1,55,621 "," $19,794 ",$0.17 ,$1.33 
+Kmart,Kmart Mobile,PMD,187664,0,0.00%," $68,919 "," $4,545 ",$0.02 ,$0.37 
+Kmart,Kmart Deal Center,Points,419624,0,0.00%," $1,14,693 "," $23,853 ",$0.06 ,$0.27 
+Kmart,Kmart Deal Center,PMD,738320,0,0.00%," $95,201 "," $22,938 ",$0.03 ,$0.13 
